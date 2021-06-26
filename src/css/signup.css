@@ -1,0 +1,16 @@
+.signup{
+    display: flex;
+    flex-direction: column;
+}
+
+.signup h1{
+    color: #333;
+}
+
+.signup .MuiInputBase-input {
+    padding: 20px 0 7px!important;
+}
+
+.signup Button{
+    margin-top: 30px;
+}

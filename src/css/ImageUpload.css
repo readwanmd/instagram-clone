@@ -1,0 +1,16 @@
+.imageUpload {
+	display: flex;
+	flex-direction: column;
+	width: 60%;
+	margin: 10px auto;
+	background-color: #fff;
+	border-bottom: 1px solid lightgray;
+}
+
+.imageUpload__Progress {
+	width: 100%;
+}
+
+.MuiFilledInput-multiline {
+	padding: 10px !important;
+}
